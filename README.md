@@ -1,38 +1,45 @@
-# 👋 Hi, I'm Momčilo Džunić
+# Momčilo Džunić
 
-### Senior Go & Distributed Systems Engineer | 20+ years Experience | Dubai, UAE
+**I build AI that runs on hardware you own, where the model writes the words and code
+supplies the facts.** Go and distributed systems, 20+ years. Dubai.
 
-I build resilient, high-performance distributed systems. I focus on the intersection of modern software architecture and low-level protocol efficiency. I am currently focused on **Go**, **libp2p**, and **event-driven architectures**.
+## What I'm building
 
----
+- **[dossier.technology](https://dossier.technology)**: a private AI agent for institutional
+  document work (appraisals, evaluations, due diligence). Citations are attached by code from
+  the institution's own documents, never written by the model. One Go binary, open-weight
+  models, runs on a desk machine or the client's servers.
+- **[remote.network](https://remote.network)**: the machines you already own become one
+  OpenAI-compatible endpoint. Hole-punched QUIC through NAT, Ed25519 node identity, routing
+  by price, speed and reputation, metering to the token. Private beta.
+- **[budgetfork.com](https://budgetfork.com)**: meal plans built around a budget and live
+  supermarket prices. The model reads and writes; matching, prices and totals are computed in
+  code. Go, PostgreSQL + pgvector. Barcelona first.
 
-### 🛠 Technical Toolbox
+## Before
 
-- **Languages:** Go (Expert), C/C++, Python, Assembly
-- **Infrastructure:** Distributed Systems, P2P Networking (libp2p), Microservices
-- **High Performance:** High-throughput pipelines, Concurrency optimization, Zero-copy networking
-- **Hardware/Low-level:** TinyGo, WASM, PCB Design, Hardware/Protocol boundary
+- **Protocol Labs / Filecoin** (2022-2024): Go services for decentralised data
+  transformation and provenance; CO2.Storage.
+- **iBee.io, iBumble.io** (2018-2022, co-founder): real-time IoT pipelines, my own PCBs and
+  firmware.
+- **Mott MacDonald** (2014-2017): enterprise content management for the Western Balkans
+  Investment Framework.
+- **Microsoft, Vip Mobile** (2005-2009): service delivery and operations.
 
----
+## Toolbox
 
-### 🚀 Featured Work & Open Source
+Go (main language) · C/C++ · Python · TypeScript (Svelte, Vue) · QUIC, libp2p, DHT · PostgreSQL,
+SQLite, pgvector · Ollama, vLLM, open-weight LLMs, vision OCR · TinyGo/WASM · PCB design
 
-- **[Remote Network Node](https://remote.network)** - A decentralized P2P compute network using **QUIC**, **libp2p**, and **DHT** for high-throughput task orchestration.
-- **[CO2.Storage]([https://github.com](https://github.com/adgsm/co2-storage))** - Environmental asset metadata system utilizing **IPLD DAGs** and content-addressed storage on IPFS/Filecoin.
-- **[Multi-level Push Menu]([https://github.com](https://github.com/adgsm/multi-level-push-menu))** - A widely-adopted UI framework (800+ stars) and part of the **GitHub Arctic Code Vault**.
+## Open source
 
----
+- [Remote Network Node](https://github.com/Trustflow-Network-Labs/remote.network): P2P compute network over QUIC and DHT
+- CO2.Storage: environmental asset metadata on IPFS/Filecoin with IPLD DAGs
+- [Multi-level Push Menu](https://github.com/adgsm/multi-level-push-menu): 800+ stars,
+  GitHub Arctic Code Vault
 
-### 🌐 Beyond GitHub
+## Elsewhere
 
-Since I don't use traditional social media (LinkedIn/Facebook), you can find my full portfolio, deep-dive technical articles, and contact information at my personal domain:
-
-👉 **[momcilo.dzunic.net](https://momcilo.dzunic.net)**
-
-### 📫 Contact
-- **Email:** momcilo@dzunic.net
-- **Location:** Dubai, UAE (Open to remote/global collaboration)
-
----
-
-*"Building the backbone of the decentralized web, one goroutine at a time."*
+[LinkedIn](https://www.linkedin.com/in/mdzunic/) ·
+[X @mdzunic](https://x.com/mdzunic) · [momcilo.dzunic.net](https://momcilo.dzunic.net) ·
+momcilo@dzunic.net
